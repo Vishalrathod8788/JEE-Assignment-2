@@ -5,7 +5,7 @@
 
 
 ## Generic servlet vs httpServlet :-
-### https://geekcer.com/difference-between-genericservlet-and-httpservlet/
+### https://www.javainterviewpoint.com/difference-between-genericservlet-and-httpservlet/
 
 
 
