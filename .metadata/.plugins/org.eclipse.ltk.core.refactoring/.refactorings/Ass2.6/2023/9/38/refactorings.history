@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;HTTP_REQ_INFO&apos; to &apos;ass-2.6/src&apos;&#x0D;&#x0A;- Original project: &apos;Ass2.6&apos;&#x0D;&#x0A;- Destination element: &apos;ass-2.6/src&apos;&#x0D;&#x0A;- Original element: &apos;Ass2.6/src/HTTP_REQ_INFO&apos;" description="Copy package" destination="=ass-2.6/src" element1="/src&lt;HTTP_REQ_INFO" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1695303523973" version="1.0"/>
+</session>
