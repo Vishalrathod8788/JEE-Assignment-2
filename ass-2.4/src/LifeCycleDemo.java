@@ -24,4 +24,5 @@ public class LifeCycleDemo extends GenericServlet
 			super.destroy();
 			System.out.println("Destroy Method Call");
 	}
+	
 }
